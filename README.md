@@ -13,6 +13,10 @@ In recent years, the rapid development of sequencing technology has significantl
 - **mamba-ssm        2.2.2**
 - **fairseq                  0.12.2**
 
+## weights
+
+Download the [pretraining  file](https://drive.google.com/drive/folders/1LQOIo-fvij3L2dPEA2zfyOGNn3mkz4KE?usp=sharing) and place it in~/. cache/torch/hub/checkpoints/
+
 ## Usage
 
 ```python
