@@ -23,7 +23,7 @@ Download the [pretraining  file](https://drive.google.com/drive/folders/1LQOIo-f
 import DGRNA
 import torch
 
-device = torch.device("cpu")#.device("cuda:2")
+device = torch.device("cuda:0")
 model, alphabet, _ = DGRNA.mamba2_pretrained.rna_mamba2_L24()
 model = model.to(device)
 
