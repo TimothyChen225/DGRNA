@@ -1,6 +1,6 @@
 # DGRNA: RNA foundation model with bidirectional mamba2-attention
 
-![image](https://github.com/TimothyChen225/DGRNA/tree/main/picture/DGRNA.png)
+![image](https://github.com/TimothyChen225/DGRNA/blob/main/picture/DGRNA.png)
 
 ## About
 
