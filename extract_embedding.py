@@ -1,7 +1,7 @@
 import DGRNA
 import torch
 
-device = torch.device("cpu")#.device("cuda:2")
+device = torch.device("cuda:2")
 model, alphabet, _ = DGRNA.mamba2_pretrained.rna_mamba2_L24()
 model = model.to(device)
 
