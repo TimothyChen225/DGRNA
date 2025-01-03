@@ -18,7 +18,7 @@ In recent years, the rapid development of sequencing technology has significantl
 Download the [pretraining  file](https://drive.google.com/drive/folders/1LQOIo-fvij3L2dPEA2zfyOGNn3mkz4KE?usp=sharing) and place it in~/. cache/torch/hub/checkpoints/
 
 ## Usage
-
+Note that currently only GPU is supported
 ```python
 import DGRNA
 import torch
